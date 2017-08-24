@@ -1,0 +1,5 @@
+*.dSYM
+*.class
+
+/LKH-2.0.7
+src/*.pyc
